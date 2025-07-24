@@ -1,10 +1,10 @@
 // ✅ Standard-Aufgabenliste (du kannst sie ändern)
 const defaultTasks = [
-    "Zähneputzen",
-    "1L Wasser trinken",
-    "10 Minuten Bewegung",
-    "Handyzeit prüfen",
-    "Meditation"
+    "Sport machen",
+    "30 Minuten Schule",
+    "Duschen",
+    "10 Minuten Fokus",
+    "Clash of Clans"
   ];
   
   // 🔑 Schlüssel für den lokalen Speicher (damit du sie später wieder findest)
