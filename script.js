@@ -1,5 +1,7 @@
 // ✅ Standard-Aufgabenliste (du kannst sie ändern)
 const defaultTasks = [
+    "Zähne Putzen morgens",
+    "Zähne putze abends",
     "Sport machen",
     "30 Minuten Schule",
     "Duschen",
